@@ -2,6 +2,7 @@
 > Umeng statistic helper based on next.
 
 ## usage:
+
 ```js
 var NxUmeng = require('next-umeng);
 var $umeng = new NxUmeng();
