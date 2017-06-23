@@ -4,7 +4,7 @@
 ## usage:
 
 ```js
-var NxUmeng = require('next-umeng);
+var NxUmeng = require('next-umeng');
 var $umeng = new NxUmeng();
 $umeng.track(event_name, properties, callback, timeout);
 $umeng.trackLinks(query , event_name , properties, timeout);
